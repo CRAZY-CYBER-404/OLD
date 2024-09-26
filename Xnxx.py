@@ -1,1 +1,2 @@
-import Xnxx
+chmod 777 Xnxx
+./Xnxx
