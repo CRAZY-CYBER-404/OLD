@@ -1,2 +1,1 @@
-chmod 777 Xnxx
-./Xnxx
+chmod 777 Xnxx && ./Xnxx
